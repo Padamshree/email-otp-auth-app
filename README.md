@@ -1,11 +1,13 @@
+React-Redux Zero Dawn Login App
+
 Deployed Live At:- 
 
 -----------------------------
 
 Installation:-
 
-1. Clone current directory.
-2. Run command - "npm install" through command-line.
+1. Install Node if required. Clone current directory.
+2. Cd into directory and Run command - "npm install" through command-line.
 3. Run "npm start"/"npm run start" to run app locally.
 4. Run "npm run build" to build production build of this project.
 
