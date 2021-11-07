@@ -1,0 +1,20 @@
+.home-container {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 10px;
+}
+
+.home-text-main {
+    font-family: 'Haettenschweiler';
+    font-weight: 200;
+    font-size: 1.4rem;
+}
+
+.home-details {
+    font-family: 'Haettenschweiler';
+    font-weight: 100;;
+    font-size: 1.1rem;
+}

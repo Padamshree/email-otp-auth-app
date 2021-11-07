@@ -1,0 +1,54 @@
+.main-container {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.container {
+    margin-top: 40px;
+    width: 100%;
+}
+
+.outlined-box {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-height: 600px;
+    border: 2px solid black;
+    padding: 0px 40px;
+    padding-bottom: 20px;
+    width: 70%;
+}
+
+.login-header {
+    font-family: 'Geneva';
+    font-weight: 200;
+}
+
+.box-header {
+    font-weight: 500;
+}
+
+.resend-code {
+    color: #14966f;
+}
+
+.resend-code:hover {
+    cursor: pointer;
+}
+
+.outlined-box-signup {
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    padding: 0px 20px;
+    padding-bottom: 20px;
+    width: 40%;
+}

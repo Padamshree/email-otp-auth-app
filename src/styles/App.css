@@ -1,0 +1,14 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.site-header {
+  font-family: 'Haettenschweiler';
+  font-weight: 500;
+  font-size: 1.8rem;
+  border-bottom: 1px solid #000;
+  padding-bottom: 3px;
+}
